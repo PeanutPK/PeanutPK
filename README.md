@@ -1,8 +1,6 @@
 # 🙋‍♂️ Hi there
 - 🌝 My name is Phukaow. The meaning is a mountain in Thai. 
 - 🌱 Currently studying Software and Knowledge Engineering at Kasetsart University
-- 👾 Learning on game dev basics
-- 🤔 Interested in ML and game dev
 - 🧍 Like games, K-pop, and every genre of movies.
 
 ## 🌐 Socials:
